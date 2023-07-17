@@ -41,7 +41,7 @@ class _StudentFormState extends State<StudentForm> {
             key: _formKey,
             child: Column(
               children: <Widget>[
-                SizedBox(height: 70,),
+                SizedBox(height: 65,),
                 Text(
                   'Help us personalise your learning experience',
                   style: TextStyle(
